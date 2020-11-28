@@ -202,3 +202,9 @@ dmypy.json
 # data folders
 */data/
 */data/*
+
+*/train/
+*/train/*
+
+*/test/
+*/test/*
